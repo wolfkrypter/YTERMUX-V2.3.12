@@ -16,7 +16,7 @@ Ejecuta de forma legible YT-DLP en Termux.
 <p>~ $ mv ytermux-v2 $PATH</p>
 <p>~ $ ytermux-v2</p>
 
-
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVJJCWsBciBbX0MWOHBQ0CEKLXneY7IDbj0yws05t10wvx62lduRqA_i2D9Z2kG_1NkGiWmRy0-E7VJcGpw0ujpehL-cDXkwoFOjiL6wVqHkNfSvgjMoYlYoKMyvQw1Ogg07HGIkIsZPpG3a97ER5Rcrd9zRQPkzKMYqB37ZN3v05uROUrsjDDl_hXQ1bV/s958/Polish_20250128_143720132.png">
 
 
 
