@@ -16,3 +16,20 @@ Ejecuta de forma legible YT-DLP en Termux.
 <p>~ $ mv ytermux-v2 $PATH</p>
 <p>~ $ ytermux-v2</p>
 
+
+
+
+
+<h1>DESINSTALACIÓN DE YTDLP-TERMUX-V2</h1>
+<p>~ $ cd $PATH && yes | rm -r ytermux-v2 && cd</p>
+<p>~ $ yes | rm -r YTDLP-TERMUX-V2</p>
+
+<h2>DESINSTALACIÓN DE DEPENDENCIAS DE YTDLP-TERMUX-V2</h2>
+
+<p>~ $ yes | pkg uninstall ffmpeg</p>
+<p>~ $ yes | pip uninstall yt-dlp</p>
+<p>~ $ yes | pkg uninstall python</p>
+<p>~ $ echo -e "\n\n\033[0;666;32m[INF]\033[0;666;32m Desinstalación de YTDLP-TERMUX-V2 completada.\n\n"</p>
+
+<p><strong>INF:</strong> El siguiente comando desinstala el paquete de git, el cual es indispensable para clonar repositorios e util para el servicio de instalación de software de código abierto publicados en git,etcétera.</p>
+<p>~ $ yes | pkg uninstall git</p>
