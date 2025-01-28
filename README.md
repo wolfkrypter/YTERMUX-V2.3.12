@@ -8,7 +8,7 @@ Ejecuta de forma legible YT-DLP en Termux.
 <p>~ $ yes | pkg install ffmpeg</p>
 <p>~ $ yes | pkg install python</p>
 <p>~ $ pip install yt-dlp</p>
-p>~ $ yes | pkg install git</p>
+<p>~ $ yes | pkg install git</p>
 <p>~ $ git clone https://github.com/wolfkrypter/YTDLP-TERMUX-V2.git</p>
 
 <p>~ $ cd YTDLP-TERMUX-V2</p>
