@@ -12,7 +12,7 @@ p>~ $ yes | pkg install git</p>
 <p>~ $ git clone https://github.com/wolfkrypter/YTDLP-TERMUX-V2.git</p>
 
 <p>~ $ cd YTDLP-TERMUX-V2</p>
-<p>~ $ chmod +x ytx-v2</p>
-<p>~ $ mv ytx-v2 $PATH</p>
-<p>~ $ ytx-v2</p>
+<p>~ $ chmod +x ytermux-v2</p>
+<p>~ $ mv ytermux-v2 $PATH</p>
+<p>~ $ ytermux-v2</p>
 
