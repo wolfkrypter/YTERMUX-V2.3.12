@@ -21,7 +21,7 @@ Ejecuta de forma legible YT-DLP en Termux.
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiin4X3_NfkZz5_mo11EJ4MgBOXOQJnvk9SzbZvvK35V4TOcRD-4iRQAtZVR-y15hTU8h5BNFyjz51bAffk7Y4oSJ5lBs0TkM1AuAVMlO4pNXqPX3vAOLU9hGU02nDO3x56U0gjmKLQGDF3eydnch82T2VQ62j9AKZf2SJtJdNBmBbkN71Fcf_It3-tUKSX/s929/Polish_20250128_145600883.png">
 
 <h1>DESINSTALACIÓN DE YTDLP-TERMUX-V2</h1>
-<p>~ $ cd $PATH && yes | rm -r ytermux-v2 && cd</p>
+<p>~ $ cd $PATH && rm -r ytermux-v2 && cd</p>
 <p>~ $ yes | rm -r YTDLP-TERMUX-V2</p>
 
 <h2>DESINSTALACIÓN DE DEPENDENCIAS DE YTDLP-TERMUX-V2</h2>
