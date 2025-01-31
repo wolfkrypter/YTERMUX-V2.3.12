@@ -1,6 +1,8 @@
 # YTDLP-TERMUX-V2
 Ejecuta de forma legible YT-DLP en Termux.
 
+<p><strong>Status:</strong> Activa | Disponible</p>
+
 
 <h1>INSTALACIÓN DE YTDLP-TERMUX-V2</h1>
 <p>~ $ yes | termux-setup-storage</p>
