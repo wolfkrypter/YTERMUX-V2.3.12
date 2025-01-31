@@ -18,9 +18,7 @@ Ejecuta de forma legible YT-DLP en Termux.
 <p>~ $ mv ytermux-v2 $PATH</p>
 <p>~ $ ytermux-v2</p>
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVJJCWsBciBbX0MWOHBQ0CEKLXneY7IDbj0yws05t10wvx62lduRqA_i2D9Z2kG_1NkGiWmRy0-E7VJcGpw0ujpehL-cDXkwoFOjiL6wVqHkNfSvgjMoYlYoKMyvQw1Ogg07HGIkIsZPpG3a97ER5Rcrd9zRQPkzKMYqB37ZN3v05uROUrsjDDl_hXQ1bV/s958/Polish_20250128_143720132.png">
-
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiin4X3_NfkZz5_mo11EJ4MgBOXOQJnvk9SzbZvvK35V4TOcRD-4iRQAtZVR-y15hTU8h5BNFyjz51bAffk7Y4oSJ5lBs0TkM1AuAVMlO4pNXqPX3vAOLU9hGU02nDO3x56U0gjmKLQGDF3eydnch82T2VQ62j9AKZf2SJtJdNBmBbkN71Fcf_It3-tUKSX/s929/Polish_20250128_145600883.png">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV8woAiOaNKndqnfDCcoVSGk8k76iK7Vaxf2WfaCXJ6WzWy223kNjEc-AFX6A8OvzgjW7HBFrIDh7Ps_59rPh7FEaHHg4lVuEoDfHTuX2ZjJwBRLWubXxZDd1BCUWkxkbA5ilhlupJAc4S5qauUCYlbHSi4pvy2HfYzG6mgTaWTia6OM2Xh93lbz1GNtXe/s1600/Polish_20250131_130801176.png">
 
 <h1>DESINSTALACIÓN DE YTDLP-TERMUX-V2</h1>
 <p>~ $ cd $PATH && rm -r ytermux-v2 && cd</p>
