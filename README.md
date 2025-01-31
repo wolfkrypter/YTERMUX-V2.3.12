@@ -1,6 +1,7 @@
 # YTDLP-TERMUX-V2
 Ejecuta de forma legible YT-DLP en Termux.
 
+<h2>ESTADO DEL REPOSITORIO</h2>
 <p><strong>Status:</strong> Activa | Disponible</p>
 
 
