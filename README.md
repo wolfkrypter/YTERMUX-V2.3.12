@@ -2,8 +2,8 @@
 Ejecuta de forma legible YT-DLP en Termux.
 
 <h2>ESTADO DEL REPOSITORIO</h2>
-<p><strong>Status:</strong> Activa | Disponible</p>
-<p><strong>Edición:</strong> 31/01/2025/14:05:04</p>
+<p><strong>Status:</strong> Activó | Disponible</p>
+<p><strong>Edición:</strong> 31/01/2025/19:34:04</p>
 
 
 <h1>INSTALACIÓN DE YTDLP-TERMUX-V2</h1>
