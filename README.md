@@ -9,7 +9,6 @@ Ejecuta de forma legible YT-DLP en Termux.
 <h1>INSTALACIÓN DE YTDLP-TERMUX-V2</h1>
 <p>~ $ yes | termux-setup-storage</p>
 <p>~ $ yes | pkg upgrade && yes | pkg update</p>
-<p>~ $ yes | pkg install git</p>
 <p>~ $ yes | pkg install ffmpeg</p>
 <p>~ $ yes | pkg install python</p>
 <p>~ $ pip install yt-dlp</p>
