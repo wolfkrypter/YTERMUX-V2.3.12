@@ -23,7 +23,7 @@ Ejecuta de forma legible YT-DLP en Termux.
 <p>~YTDLP-TERMUX-V2 $ ytermux-v2</p>
 <p>or</p>
 <p>~ $ ytermux-v2</p>
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV8woAiOaNKndqnfDCcoVSGk8k76iK7Vaxf2WfaCXJ6WzWy223kNjEc-AFX6A8OvzgjW7HBFrIDh7Ps_59rPh7FEaHHg4lVuEoDfHTuX2ZjJwBRLWubXxZDd1BCUWkxkbA5ilhlupJAc4S5qauUCYlbHSi4pvy2HfYzG6mgTaWTia6OM2Xh93lbz1GNtXe/s1600/Polish_20250131_130801176.png"></img>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinQcVqAAyORVyIZODVOnDPGINq2X6dVaNu_oaZwwZ3L3It6VsrkMaszMIDaFKQrp5fEZoJSC0FbHh0iujB2n4_cB0WVulk6vIpHcirmH-jovfU38rnlOKp5S7S0Ydzdddo1F7zPHdfa1fYqd1O4oDrxmMKyZd1xHgvcP3_KJd48jo52un2AgvJefROqN5a/w374-h640/Polish_20250218_235312992.png" alt="YTDLP-TERMUX-V2 | YTERMUX-V2"/>
 
 <h1>DESINSTALACIÓN DE YTDLP-TERMUX-V2</h1>
 <p>~ $ cd $PATH && rm -r ytermux-v2 && cd</p>
