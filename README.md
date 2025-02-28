@@ -27,7 +27,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 <p>~ $ ytermux-v2</p>
 <a href="https://freeimage.host/i/3dtWRWu"><img src="https://iili.io/3dtWRWu.md.png" alt="3dtWRWu.md.png" border="0"></a>
 <a href="https://freeimage.host/i/3dtkWKX"><img src="https://iili.io/3dtkWKX.md.png" alt="3dtkWKX.md.png" border="0"></a>
-
+<a href="https://freeimage.host/i/3dt6Bja"><img src="https://iili.io/3dt6Bja.md.png" alt="3dt6Bja.md.png" border="0"></a>
 <br />
 <h1>DESINSTALACIÓN DE YTDLP-TERMUX-V2</h1>
 <p>~ $ cd $PATH && rm -r ytermux-v2 && cd</p>
