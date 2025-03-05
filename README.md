@@ -4,7 +4,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 <h2>ESTADO DEL REPOSITORIO</h2>
 <p><strong>Status:</strong> Activó | Disponible</p>
-<p><strong>Edición:</strong> 27/02/2025/10:44:05</p>
+<p><strong>Edición:</strong> 04/03/2025/17:45:05</p>
 <p><strong>Tamaño:</strong> 1 GB</p>
 
 
@@ -25,10 +25,6 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 <p>~YTDLP-TERMUX-V2 $ ytermux-v2</p>
 <p>or</p>
 <p>~ $ ytermux-v2</p>
-<a href="https://freeimage.host/i/3dtWRWu"><img src="https://iili.io/3dtWRWu.md.png" alt="3dtWRWu.md.png" border="0"></a>
-<a href="https://freeimage.host/i/3dtkWKX"><img src="https://iili.io/3dtkWKX.md.png" alt="3dtkWKX.md.png" border="0"></a>
-<a href="https://freeimage.host/i/3dt6Bja"><img src="https://iili.io/3dt6Bja.md.png" alt="3dt6Bja.md.png" border="0"></a>
-<br />
 <h1>DESINSTALACIÓN DE YTDLP-TERMUX-V2</h1>
 <p>~ $ cd $PATH && rm -r ytermux-v2 && cd</p>
 <p>~ $ yes | rm -r YTDLP-TERMUX-V2</p>
