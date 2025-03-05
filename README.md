@@ -3,7 +3,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjroJO_37lpunqm_-Hee7yeY4Uo39s-iBnSWo5MA5RtGhLnKLRwVWz2ZsvX94yvNbyFIIBybgDmyVwIHdGnOCgHyEsmJjjBywdG-sby5Cx9Y8yfp3zKC3lOr0SeWWvEBjimNqZfiQaATJWH08mKazbII4Q7SKBZlyVU0cHnDdxu9dIzCgf6asMrJyDbddRc/s400/Screenshot_20250219-005737.jpg"/>
 
 <h2>ESTADO DEL REPOSITORIO</h2>
-<p><strong>Status:</strong> Activó | Disponible</p>
+<p><strong>Status:</strong> Activo | Disponible</p>
 <p><strong>Edición:</strong> 04/03/2025/17:45:05</p>
 <p><strong>Tamaño:</strong> 1 GB</p>
 
