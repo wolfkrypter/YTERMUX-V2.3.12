@@ -4,7 +4,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 <h2>ESTADO DEL REPOSITORIO</h2>
 <p><strong>Status:</strong> Activo | Disponible</p>
-<p><strong>Edición:</strong> 05/03/2025/17:45:05</p>
+<p><strong>Edición:</strong> 06/03/2025/21:56:05</p>
 <p><strong>Tamaño:</strong> 1 GB</p>
 
 
