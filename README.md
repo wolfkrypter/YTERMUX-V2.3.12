@@ -27,7 +27,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 
 <h2>EJECUCIÓN DE YTDLP-TERMUX-V2</h2>
-<p>~YTDLP-TERMUX-V2 $ ytermux-v2</p>
+<p>~/YTDLP-TERMUX-V2 $ ytermux-v2</p>
 <p>or</p>
 <p>~ $ ytermux-v2</p>
 
