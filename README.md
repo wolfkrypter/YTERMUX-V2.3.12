@@ -38,7 +38,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 <a href="https://freeimage.host/i/3KiBPbS"><img src="https://iili.io/3KiBPbS.md.png" alt="3KiBPbS.md.png" border="0"></a>
 
 <p><h5>[INF] CUENTA/STREAMING:</h5>
-<p>Digite el usuario en el caso de haber ingresado con el email, y en el caso contrario el email.
+<p>Digite el usuario en el caso de haber ingresado con el email, y en el caso contrario el email.</p>
 <a href="https://freeimage.host/i/3fAsu1t"><img src="https://iili.io/3fAsu1t.md.png" alt="3fAsu1t.md.png" border="0"></a>
 
 
