@@ -39,10 +39,10 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 <p><h5>[INF] CUENTA/STREAMING:</h5>
 
-<a href="https://freeimage.host/i/3fAsu1t"><img src="https://iili.io/3fAsu1t.md.png" alt="3fAsu1t.md.png" border="0"></a>
 
 
 <p>Digite el nombre de usuario o username o usuario e oprima 'Enter' en el caso de haber ingresado con el email o correo electrónico, y si ingreso con el nombre de usuario o username o usuario digite el email o correo electrónico e oprima 'Enter' para proseguir el proceso de descarga e extracodificación e extracción con cuenta streaming.</p>
+<a href="https://freeimage.host/i/3fAsu1t"><img src="https://iili.io/3fAsu1t.md.png" alt="3fAsu1t.md.png" border="0"></a>
 
 
 <h1>DESINSTALACIÓN DE YTDLP-TERMUX-V2</h1>
