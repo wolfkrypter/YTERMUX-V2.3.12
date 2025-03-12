@@ -10,12 +10,6 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 <h1>INSTALACIÓN DE YTDLP-TERMUX-V2</h1>
 
-<!-- The text field -->
-<input type="text" value="Hello World" id="myInput">
-
-<!-- The button used to copy the text -->
-<button onclick="myFunction()">Copy text</button>
-
 <p>~ $ yes | termux-setup-storage</p>
 <p>~ $ yes | pkg upgrade && yes | pkg update</p>
 <p>~ $ yes | pkg install ffmpeg</p>
