@@ -4,7 +4,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 <h2>ESTADO DEL REPOSITORIO</h2>
 <p><strong>Status:</strong> Activo | Disponible</p>
-<p><strong>Edición:</strong> 10/03/2025/03:35:05</p>
+<p><strong>Edición:</strong> 12/03/2025/03:35:05</p>
 <p><strong>Tamaño:</strong> 1 GB</p>
 
 
@@ -32,8 +32,8 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 <p>~ $ ytermux-v2</p>
 
 
-<a href="https://freeimage.host/i/3qSUZlI"><img src="https://iili.io/3qSUZlI.md.png" alt="3qSUZlI.md.png" border="0"></a>
 
+<a href="https://freeimage.host/i/3qZdWRj"><img src="https://iili.io/3qZdWRj.md.png" alt="3qZdWRj.md.png" border="0"></a>
 
 <a href="https://freeimage.host/i/3KiBPbS"><img src="https://iili.io/3KiBPbS.md.png" alt="3KiBPbS.md.png" border="0"></a>
 
