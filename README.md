@@ -32,7 +32,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 <p>~ $ ytermux-v2</p>
 
 
-<a href="https://freeimage.host/i/3K6v3UF"><img src="https://iili.io/3K6v3UF.md.png" alt="3K6v3UF.md.png" border="0"></a>
+<a href="https://freeimage.host/i/3qSUZlI"><img src="https://iili.io/3qSUZlI.md.png" alt="3qSUZlI.md.png" border="0"></a>
 
 
 <a href="https://freeimage.host/i/3KiBPbS"><img src="https://iili.io/3KiBPbS.md.png" alt="3KiBPbS.md.png" border="0"></a>
