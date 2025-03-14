@@ -10,7 +10,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 <p><strong>Edición:</strong> 12/03/2025/03:35:05</p>
 <p><strong>Tamaño:</strong> 1 GB</p>
 
-<span style="color: green"> Some green text </span>
+
 
 
 
