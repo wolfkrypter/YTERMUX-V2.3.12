@@ -10,8 +10,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 <p><strong>Edición:</strong> 12/03/2025/03:35:05</p>
 <p><strong>Tamaño:</strong> 1 GB</p>
 
-
-
+- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
 
 
 
