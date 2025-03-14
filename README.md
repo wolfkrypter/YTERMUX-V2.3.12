@@ -87,5 +87,6 @@ or
 
 <p><strong>INF:</strong> El siguiente comando desinstala la dependencia y el paquete de git el cual es indispensable para clonar repositorios e útil para el servicio de instalación de software de código abierto publicados en git,etcétera.</p>
 <br/>
+
 ~ $ ```bash yes | pkg uninstall git ```
 <br/>
