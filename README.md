@@ -13,8 +13,11 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 
 ~ $ ```bash yes | termux-setup-storage ```
+<br />
 ~ $ ```bash yes | pkg upgrade && yes | pkg update ```
+<br />
 ~ $ ```bash yes | pkg install ffmpeg ```
+<br/ >
 ~ $ ```bash yes | pkg install python ```
 ~ $ ```bash pip install yt-dlp ```
 ~ $ ```bash yes | pkg install git ```
