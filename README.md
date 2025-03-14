@@ -9,8 +9,8 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 <p><strong>Tamaño:</strong> 1 GB</p>
 
 
-<h1>INSTALACIÓN DE
-YT-DLP TERMUX V2</h1>
+<h1>INSTALACIÓN DE</h1>
+<h1>YT-DLP TERMUX V2</h1>
 
 
 
