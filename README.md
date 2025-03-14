@@ -69,9 +69,9 @@ or
 
 
 <h1>DESINSTALACIÓN DE YTDLP-TERMUX-V2</h1>
-<br />
+<br/>
 ~ $ ```bash cd $PATH && rm -r ytermux-v2 && cd ```
-<br />
+<br/>
 ~ $ ```bash yes | rm -r YTDLP-TERMUX-V2 ```
 <br />
 <h2>DESINSTALACIÓN DE DEPENDENCIAS DE YTDLP-TERMUX-V2</h2>
