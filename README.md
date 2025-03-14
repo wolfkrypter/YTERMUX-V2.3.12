@@ -1,4 +1,4 @@
-# YTDLP-TERMUX-V2
+6# YTDLP-TERMUX-V2
 Ejecuta de forma legible YT-DLP en Termux.</p>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjroJO_37lpunqm_-Hee7yeY4Uo39s-iBnSWo5MA5RtGhLnKLRwVWz2ZsvX94yvNbyFIIBybgDmyVwIHdGnOCgHyEsmJjjBywdG-sby5Cx9Y8yfp3zKC3lOr0SeWWvEBjimNqZfiQaATJWH08mKazbII4Q7SKBZlyVU0cHnDdxu9dIzCgf6asMrJyDbddRc/s400/Screenshot_20250219-005737.jpg"/>
 
@@ -56,7 +56,7 @@ or
 
 <a href="https://freeimage.host/i/3KiBPbS"><img src="https://iili.io/3KiBPbS.md.png" alt="3KiBPbS.md.png" border="0"></a>
 
-<p><h5>[INF] CUENTA/STREAMING:</h5>
+<p><h5>CUENTA/STREAMING:</h5>
 
 
 
