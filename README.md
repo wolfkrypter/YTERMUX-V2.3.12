@@ -45,7 +45,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 ~/YTDLP-TERMUX-V2 $ ```bash ytermux-v2 ```
 <br/>
-<p>or</p>
+or
 <br/>
 ~ $ ```bash ytermux-v2 ```
 <br/>
