@@ -69,15 +69,15 @@ or
 
 
 <h1>DESINSTALACIÓN DE YTDLP-TERMUX-V2</h1>
-<br/>
+<br />
 ~ $ ```bash cd $PATH && rm -r ytermux-v2 && cd ```
-<br/>
+<br />
 ~ $ ```bash yes | rm -r YTDLP-TERMUX-V2 ```
-<br/>
+<br />
 <h2>DESINSTALACIÓN DE DEPENDENCIAS DE YTDLP-TERMUX-V2</h2>
-<br/>
+<br />
 ~ $ ```bash yes | pkg uninstall ffmpeg ```
-<br/>
+<br />
 ~ $ ```bash yes | pip uninstall yt-dlp ```
 <br/>
 ~ $ ```bash yes | pkg uninstall python ```
