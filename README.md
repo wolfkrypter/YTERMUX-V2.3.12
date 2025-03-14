@@ -9,6 +9,23 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 <p><strong>Tamaño:</strong> 1 GB</p>
 
 
+$theme-colors: ( 
+    'primary': #3892e5, 
+    'secondary': #27313b, 
+    'white': #fff, 
+    'success': #40b87c, 
+    'info': #3892e5, 
+    'warning': #ffb63d, 
+    'danger': #ff5f5f, 
+    'light': #f6f8fa, 
+    'border': #dee5ec, 
+    'customColor': #6e7c89, 
+    'dark': #25313c, 
+    'transparent': transparent
+);
+
+
+
 <h1>INSTALACIÓN DE<br/>YT-DLP TERMUX V2</h1>
 
 
