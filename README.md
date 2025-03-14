@@ -13,16 +13,16 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 
 ~ $ ```bash yes | termux-setup-storage ```
-<p>~ $ yes | pkg upgrade && yes | pkg update</p>
-<p>~ $ yes | pkg install ffmpeg</p>
-<p>~ $ yes | pkg install python</p>
-<p>~ $ pip install yt-dlp</p>
-<p>~ $ yes | pkg install git</p>
-<p>~ $ git clone https://github.com/wolfkrypter/YTDLP-TERMUX-V2.git</p>
+~ $ ```bash yes | pkg upgrade && yes | pkg update ```
+~ $ ```bash yes | pkg install ffmpeg ```
+~ $ ```bash yes | pkg install python ```
+~ $ ```bash pip install yt-dlp ```
+~ $ ```bash yes | pkg install git ```
+~ $ ```bash git clone https://github.com/wolfkrypter/YTDLP-TERMUX-V2.git ```
 
-<p>~ $ cd YTDLP-TERMUX-V2</p>
-<p>~/YTDLP-TERMUX-V2 $ chmod +x ytermux-v2</p>
-<p>~/YTDLP-TERMUX-V2 $ mv ytermux-v2 $PATH</p>
+~ $ ```bash cd YTDLP-TERMUX-V2 ```
+~/YTDLP-TERMUX-V2 $ ```bash chmod +x ytermux-v2 ```</p>
+~/YTDLP-TERMUX-V2 $ ```bash mv ytermux-v2 $PATH ```
 
 
 
@@ -30,9 +30,9 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 
 <h2>EJECUCIÓN DE YTDLP-TERMUX-V2</h2>
-<p>~/YTDLP-TERMUX-V2 $ ytermux-v2</p>
+~/YTDLP-TERMUX-V2 $ ```bash ytermux-v2 ```
 <p>or</p>
-<p>~ $ ytermux-v2</p>
+~ $ ```bash ytermux-v2 ```
 
 
 
@@ -53,15 +53,15 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 
 <h1>DESINSTALACIÓN DE YTDLP-TERMUX-V2</h1>
-<p>~ $ cd $PATH && rm -r ytermux-v2 && cd</p>
-<p>~ $ yes | rm -r YTDLP-TERMUX-V2</p>
+~ $ ```bash cd $PATH && rm -r ytermux-v2 && cd ```
+~ $ ```bash yes | rm -r YTDLP-TERMUX-V2 ```
 
 <h2>DESINSTALACIÓN DE DEPENDENCIAS DE YTDLP-TERMUX-V2</h2>
 
-<p>~ $ yes | pkg uninstall ffmpeg</p>
-<p>~ $ yes | pip uninstall yt-dlp</p>
-<p>~ $ yes | pkg uninstall python</p>
-<p>~ $ echo -e "\n\n\033[0;666;32m[INF]\033[0;666;32m Desinstalación de dependencias de YTDLP-TERMUX-V2 completada.\n\n"</p>
+~ $ ```bash yes | pkg uninstall ffmpeg ```
+~ $ ```bash yes | pip uninstall yt-dlp ```
+~ $ ```bash yes | pkg uninstall python ```
+~ $ ```bash echo -e "\n\n\033[0;666;32m[INF]\033[0;666;32m Desinstalación de dependencias de YTDLP-TERMUX-V2 completada.\n\n" ```
 
 <p><strong>INF:</strong> El siguiente comando desinstala la dependencia y el paquete de git el cual es indispensable para clonar repositorios e útil para el servicio de instalación de software de código abierto publicados en git,etcétera.</p>
-<p>~ $ yes | pkg uninstall git</p>
+~ $ ```bash yes | pkg uninstall git ```
