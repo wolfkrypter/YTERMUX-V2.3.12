@@ -69,7 +69,7 @@ or
 
 
 <h1>DESINSTALACIÓN DE YTDLP-TERMUX-V2</h1>
-<br/>
+
 ~ $ ```bash cd $PATH && rm -r ytermux-v2 && cd ```
 <br/>
 ~ $ ```bash yes | rm -r YTDLP-TERMUX-V2 ```
