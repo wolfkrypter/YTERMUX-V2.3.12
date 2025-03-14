@@ -11,11 +11,11 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 <h1>INSTALACIÓN DE YTDLP-TERMUX-V2</h1>
 
 
-<br/>
+
 ~ $ ```bash yes | termux-setup-storage ```
-<br />
+<br/>
 ~ $ ```bash yes | pkg upgrade && yes | pkg update ```
-<br />
+<br/>
 ~ $ ```bash yes | pkg install ffmpeg ```
 <br/ >
 ~ $ ```bash yes | pkg install python ```
