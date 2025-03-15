@@ -4,8 +4,8 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 
 ![](https://img.shields.io/badge/github-blue?style=for-the-badge)
-[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
-[![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)](https://crates.io/crates/redant)
+[![](https://img.shields.io/badge/API-yellow?style=for-the-badge)]
+
 
 
 
