@@ -6,9 +6,6 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 
 
-<a href="https://freeimage.host/i/3nFe6bf"><img src="https://iili.io/3nFe6bf.md.jpg" alt="3nFe6bf.md.jpg" border="0" align="center" width="130" height="20"></a>
-
-
 
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjroJO_37lpunqm_-Hee7yeY4Uo39s-iBnSWo5MA5RtGhLnKLRwVWz2ZsvX94yvNbyFIIBybgDmyVwIHdGnOCgHyEsmJjjBywdG-sby5Cx9Y8yfp3zKC3lOr0SeWWvEBjimNqZfiQaATJWH08mKazbII4Q7SKBZlyVU0cHnDdxu9dIzCgf6asMrJyDbddRc/s400/Screenshot_20250219-005737.jpg"/>
