@@ -9,8 +9,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 
 
-
-🎷 $\Huge{\textsf{{\color[rgb]{0.0, 0.0, 1.0}TH}{\color[rgb]{0.1, 0.0, 0.9}E~ }{\color[rgb]{0.2, 0.0, 0.8}S}{\color[rgb]{0.3, 0.0, 0.7}UP}{\color[rgb]{0.4, 0.0, 0.6}ER~ }{\color[rgb]{0.5, 0.0, 0.5}CO}{\color[rgb]{0.6, 0.0, 0.4}DI}{\color[rgb]{0.7, 0.0, 0.3}NG~}{\color[rgb]{0.8, 0.0, 0.2}NI}{\color[rgb]{0.9, 0.0, 0.1}N}{\color[rgb]{1.0, 0.0, 0.0}JA!}}}$ 🎷
+$\Huge{\textsf{{\color[rgb]{0.0, 0.0, 1.0}TH}{\color[rgb]{0.1, 0.0, 0.9}E~ }{\color[rgb]{0.2, 0.0, 0.8}S}{\color[rgb]{0.3, 0.0, 0.7}UP}{\color[rgb]{0.4, 0.0, 0.6}ER~ }{\color[rgb]{0.5, 0.0, 0.5}CO}{\color[rgb]{0.6, 0.0, 0.4}DI}{\color[rgb]{0.7, 0.0, 0.3}NG~}{\color[rgb]{0.8, 0.0, 0.2}NI}{\color[rgb]{0.9, 0.0, 0.1}N}{\color[rgb]{1.0, 0.0, 0.0}JA!}}}$
 
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjroJO_37lpunqm_-Hee7yeY4Uo39s-iBnSWo5MA5RtGhLnKLRwVWz2ZsvX94yvNbyFIIBybgDmyVwIHdGnOCgHyEsmJjjBywdG-sby5Cx9Y8yfp3zKC3lOr0SeWWvEBjimNqZfiQaATJWH08mKazbII4Q7SKBZlyVU0cHnDdxu9dIzCgf6asMrJyDbddRc/s400/Screenshot_20250219-005737.jpg"/>
