@@ -6,9 +6,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 
 
-![](https://freeimage.host/i/3nFe6bf)
-![](https://img.shields.io/badge/API-yellow?style=for-the-badge)
-
+<a href="https://freeimage.host/i/3nFe6bf"><img src="https://iili.io/3nFe6bf.md.jpg" alt="3nFe6bf.md.jpg" border="0"></a>
 
 
 
