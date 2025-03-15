@@ -17,27 +17,27 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 
 
-~ $ ```bash yes | termux-setup-storage ```
+~ $ ``` yes | termux-setup-storage ```
 <br />
-~ $ ```bash yes | pkg upgrade && yes | pkg update ```
+~ $ ``` yes | pkg upgrade && yes | pkg update ```
 <br />
-~ $ ```bash yes | pkg install ffmpeg ```
+~ $ ``` yes | pkg install ffmpeg ```
 <br />
-~ $ ```bash yes | pkg install python ```
+~ $ ``` yes | pkg install python ```
 <br />
-~ $ ```bash pip install yt-dlp ```
+~ $ ``` pip install yt-dlp ```
 <br />
-~ $ ```bash yes | pkg install git ```
+~ $ ``` yes | pkg install git ```
 <br />
-~ $ ```bash git clone https://github.com/wolfkrypter/YTDLP-TERMUX-V2.git ```
-<br />
-
-~ $ ```bash cd YTDLP-TERMUX-V2 ```
-<br />
-~/YTDLP-TERMUX-V2 $ ```bash chmod +x ytermux-v2 ```
+~ $ ``` git clone https://github.com/wolfkrypter/YTDLP-TERMUX-V2.git ```
 <br />
 
-~/YTDLP-TERMUX-V2 $ ```bash mv ytermux-v2 $PATH ```
+~ $ ``` cd YTDLP-TERMUX-V2 ```
+<br />
+~/YTDLP-TERMUX-V2 $ ``` chmod +x ytermux-v2 ```
+<br />
+
+~/YTDLP-TERMUX-V2 $ ``` mv ytermux-v2 $PATH ```
 
 <br />
 
@@ -48,11 +48,11 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 <h2>EJECUCIÓN DE<br/>YTDLP-TERMUX-V2</h2>
 
-~/YTDLP-TERMUX-V2 $ ```bash ytermux-v2 ```
+~/YTDLP-TERMUX-V2 $ ``` bash ytermux-v2 ```
 <br/>
 or
 <br/>
-~ $ ```bash ytermux-v2 ```
+~ $ ``` ytermux-v2 ```
 <br/>
 
 
