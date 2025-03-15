@@ -63,6 +63,7 @@ or
 <a href="https://freeimage.host/i/3KiBPbS"><img src="https://iili.io/3KiBPbS.md.png" alt="3KiBPbS.md.png" border="0"></a>
 
 <h5>CUENTA/STREAMING:</h5>
+#### $\textsf{\color{#326a95}{Section A.}}$  
 
 Digite el nombre de usuario o username o usuario e oprima en el caso de haber ingresado con el email o correo electrónico, y si ingreso con el nombre de usuario o username o usuario digite el email o correo electrónico e oprima 'Enter'
 <a href="https://freeimage.host/i/3fAsu1t"><img src="https://iili.io/3fAsu1t.md.png" alt="3fAsu1t.md.png" border="0"></a>
