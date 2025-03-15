@@ -6,7 +6,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 
 
-<a href="https://freeimage.host/i/3nFe6bf"><img src="https://iili.io/3nFe6bf.md.jpg" alt="3nFe6bf.md.jpg" border="0" align="center"></a>
+<a href="https://freeimage.host/i/3nFe6bf"><img src="https://iili.io/3nFe6bf.md.jpg" alt="3nFe6bf.md.jpg" border="0" align="center" size="30%"></a>
 
 
 
