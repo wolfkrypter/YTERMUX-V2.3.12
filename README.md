@@ -65,8 +65,8 @@ or
 <p><h5>CUENTA/STREAMING:</h5>
 
 
-
-<p>Digite el nombre de usuario o username o usuario e oprima ${color{green}'Enter'\}$ en el caso de haber ingresado con el email o correo electrónico, y si ingreso con el nombre de usuario o username o usuario digite el email o correo electrónico e oprima 'Enter'</p>
+${\}$
+Digite el nombre de usuario o username o usuario e oprima ${color{green}'Enter'\}$ en el caso de haber ingresado con el email o correo electrónico, y si ingreso con el nombre de usuario o username o usuario digite el email o correo electrónico e oprima 'Enter'
 <a href="https://freeimage.host/i/3fAsu1t"><img src="https://iili.io/3fAsu1t.md.png" alt="3fAsu1t.md.png" border="0"></a>
 
 <p>para proseguir el proceso de descarga e extracodificación e extracción con cuenta streaming.</p>
