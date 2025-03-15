@@ -1,16 +1,6 @@
 
 # YT-DLP TERMUX V2
 Ejecuta de forma legible YT-DLP en Termux.</p>
-```html
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55 20" fill="none">
-    <text x="0" y="15" fill="#4285f4">G</text>
-    <text x="12" y="15" fill="#ea4335">o</text>
-    <text x="21" y="15" fill="#fbbc05">o</text>
-    <text x="30" y="15" fill="#4285f4">g</text>
-    <text x="40" y="15" fill="#389738">l</text>
-    <text x="45" y="15" fill="#ea4335">e</text>
-</svg>
-```
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjroJO_37lpunqm_-Hee7yeY4Uo39s-iBnSWo5MA5RtGhLnKLRwVWz2ZsvX94yvNbyFIIBybgDmyVwIHdGnOCgHyEsmJjjBywdG-sby5Cx9Y8yfp3zKC3lOr0SeWWvEBjimNqZfiQaATJWH08mKazbII4Q7SKBZlyVU0cHnDdxu9dIzCgf6asMrJyDbddRc/s400/Screenshot_20250219-005737.jpg"/>
 
