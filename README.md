@@ -2,7 +2,8 @@
 # YT-DLP TERMUX V2
 Ejecuta de forma legible YT-DLP en Termux.</p>
 
-<iframe href="https://m.youtube.com/watch?feature=shared&fbclid=IwZXh0bgNhZW0CMTEAAR1Sv_EbkLtyV4PdCJ58oe-PEvPJdX63HUvPCht27FVX9XLi9-H6cvrgBrA_aem_GXMISHdT9TyigMXALyhMHg&v=0c-UVrny8pI"></iframe>
+
+Tutorial: https://m.youtube.com/watch?feature=shared&fbclid=IwZXh0bgNhZW0CMTEAAR1Sv_EbkLtyV4PdCJ58oe-PEvPJdX63HUvPCht27FVX9XLi9-H6cvrgBrA_aem_GXMISHdT9TyigMXALyhMHg&v=0c-UVrny8pI
 
 
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjroJO_37lpunqm_-Hee7yeY4Uo39s-iBnSWo5MA5RtGhLnKLRwVWz2ZsvX94yvNbyFIIBybgDmyVwIHdGnOCgHyEsmJjjBywdG-sby5Cx9Y8yfp3zKC3lOr0SeWWvEBjimNqZfiQaATJWH08mKazbII4Q7SKBZlyVU0cHnDdxu9dIzCgf6asMrJyDbddRc/s400/Screenshot_20250219-005737.jpg"/>
