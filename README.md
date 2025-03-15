@@ -14,7 +14,8 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 <h1>INSTALACIÓN DE<br/>YT-DLP TERMUX V2</h1>
 
 <h3>URL TUTORIAL INSTALACIÓN:</h3>
-<a href="https://m.youtube.com/watch?v=0c-UVrny8pI">Click video</a>
+<a href="https://m.youtube.com/watch?v=0c-UVrny8pI">Click video tutorial</a>
+<br />
 ~ $ ``` yes | termux-setup-storage ```
 <br />
 ~ $ ``` yes | pkg upgrade && yes | pkg update ```
