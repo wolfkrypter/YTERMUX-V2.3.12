@@ -3,7 +3,10 @@
 Ejecuta de forma legible YT-DLP en Termux.</p>
 
 
-![](https://img.shields.io/badge/github-blue?style=for-the-badge)
+
+
+
+![](https://freeimage.host/i/3nFe6bf)
 ![](https://img.shields.io/badge/API-yellow?style=for-the-badge)
 
 
