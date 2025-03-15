@@ -11,8 +11,6 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 <p><strong>Edición:</strong> 12/03/2025/03:35:05</p>
 <p><strong>Tamaño:</strong> 1 GB</p>
 
-<video href="https://m.youtube.com/watch?feature=shared&fbclid=IwZXh0bgNhZW0CMTEAAR1Sv_EbkLtyV4PdCJ58oe-PEvPJdX63HUvPCht27FVX9XLi9-H6cvrgBrA_aem_GXMISHdT9TyigMXALyhMHg&v=0c-UVrny8pI"></video>
-
 <a href="https://m.youtube.com/watch?feature=shared&fbclid=IwZXh0bgNhZW0CMTEAAR1Sv_EbkLtyV4PdCJ58oe-PEvPJdX63HUvPCht27FVX9XLi9-H6cvrgBrA_aem_GXMISHdT9TyigMXALyhMHg&v=0c-UVrny8pI"/>
 
 <h1>INSTALACIÓN DE<br/>YT-DLP TERMUX V2</h1>
