@@ -1,18 +1,18 @@
-<a href="https://freeimage.host/i/3naCeBS"><img src="https://iili.io/3naCeBS.md.jpg" alt="3naCeBS.md.jpg" border="0"></a>
+<a href="https://freeimage.host/i/3naCeBS"><img src="https://iili.io/3naCeBS.md.jpg" alt="YTERMUX-V2.3.12" border="0"></a>
 <br/>
 
 Este sub-software de código abierto cifrado en base64 ejecuta de forma legible YT-DLP en Termux en una versión comprensible e ejecutable de forma versátil.</p>
 
 
 <br/>
-<a href="https://freeimage.host/i/3nz3bZQ"><img src="https://iili.io/3nz3bZQ.md.jpg" alt="3nz3bZQ.md.jpg" border="0"></a>
+<a href="https://freeimage.host/i/3nz3bZQ"><img src="https://iili.io/3nz3bZQ.md.jpg" alt="Estado" border="0"></a>
 <br/>
 <br/>
 <p><strong>Status:</strong> Activo | Disponible</p>
 <p><strong>Edición:</strong> 12/03/2025/03:35:05</p>
 <p><strong>Tamaño:</strong> 1 GB</p>
 <br/>
-<a href="https://freeimage.host/i/3nnxAOu"><img src="https://iili.io/3nnxAOu.md.jpg" alt="3nnxAOu.md.jpg" border="0"></a>
+<a href="https://freeimage.host/i/3nnxAOu"><img src="https://iili.io/3nnxAOu.md.jpg" alt="Instalación" border="0"></a>
 <br/>
 <br/>
 
@@ -21,7 +21,7 @@ Este sub-software de código abierto cifrado en base64 ejecuta de forma legible 
 
 
 
-<a href="https://freeimage.host/i/3n0jrap"><img src="https://iili.io/3n0jrap.md.jpg" alt="3n0jrap.md.jpg" border="-3"></a>
+<a href="https://freeimage.host/i/3n0jrap"><img src="https://iili.io/3n0jrap.md.jpg" alt="Comandos" border="0"></a>
 
 
 ~ $ ``` yes | termux-setup-storage ```
@@ -53,7 +53,7 @@ Este sub-software de código abierto cifrado en base64 ejecuta de forma legible 
 
 
 <br />
-<a href="https://freeimage.host/i/3nxOEPa"><img src="https://iili.io/3nxOEPa.md.jpg" alt="3nxOEPa.md.jpg" border="0"></a>
+<a href="https://freeimage.host/i/3nxOEPa"><img src="https://iili.io/3nxOEPa.md.jpg" alt="Ejecución" border="0"></a>
 
 <br />
 <br />
@@ -68,12 +68,12 @@ or
 
 
 
-<a href="https://freeimage.host/i/3qZdWRj"><img src="https://iili.io/3qZdWRj.md.png" alt="3qZdWRj.md.png" border="0"></a>
+<a href="https://freeimage.host/i/3qZdWRj"><img src="https://iili.io/3qZdWRj.md.png" alt="" border="0"></a>
 
-<a href="https://freeimage.host/i/3KiBPbS"><img src="https://iili.io/3KiBPbS.md.png" alt="3KiBPbS.md.png" border="0"></a>
+<a href="https://freeimage.host/i/3KiBPbS"><img src="https://iili.io/3KiBPbS.md.png" alt="" border="0"></a>
 
 <br/>
-<a href="https://freeimage.host/i/3nxWh91"><img src="https://iili.io/3nxWh91.md.jpg" alt="3nxWh91.md.jpg" border="0"></a>
+<a href="https://freeimage.host/i/3nxWh91"><img src="https://iili.io/3nxWh91.md.jpg" alt="" border="0"></a>
 <br/>
 <br/>
 
@@ -90,7 +90,7 @@ Digite el nombre de usuario o username o usuario e oprima en el caso de haber in
 <br/>
 
 <br/>
-<a href="https://freeimage.host/i/3nnIUoG"><img src="https://iili.io/3nnIUoG.md.jpg" alt="3nnIUoG.md.jpg" border="0"></a>
+<a href="https://freeimage.host/i/3nnIUoG"><img src="https://iili.io/3nnIUoG.md.jpg" alt="Desinstalación" border="0"></a>
 
 <br/>
 <br/>
