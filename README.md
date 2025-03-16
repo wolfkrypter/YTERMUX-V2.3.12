@@ -11,7 +11,6 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 <a href="https://freeimage.host/i/3nxUvi7"><img src="https://iili.io/3nxUvi7.md.jpg" alt="3nxUvi7.md.jpg" border="0"></a>
 
-<br/>
 <p><strong>Status:</strong> Activo | Disponible</p>
 <p><strong>Edición:</strong> 12/03/2025/03:35:05</p>
 <p><strong>Tamaño:</strong> 1 GB</p>
