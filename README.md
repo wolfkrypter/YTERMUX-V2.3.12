@@ -1,6 +1,6 @@
 
 # YT-DLP TERMUX V2
-Ejecuta de forma legible YT-DLP en Termux.</p>
+Ejecuta de forma legible YT-DLP en Termux en una versión comprensible e ejecutable de forma versátil.</p>
 
 
 <br/>
