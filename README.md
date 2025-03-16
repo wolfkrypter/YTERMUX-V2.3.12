@@ -4,8 +4,6 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 
 <br/>
-
-<br/>
 <a href="https://freeimage.host/i/3nz3bZQ"><img src="https://iili.io/3nz3bZQ.md.jpg" alt="3nz3bZQ.md.jpg" border="0"></a>
 <br/>
 <br/>
