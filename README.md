@@ -84,6 +84,7 @@ Digite el nombre de usuario o username o usuario e oprima en el caso de haber in
 
 <br/>
 <br/>
+
 ```bash
 cd $PATH && rm -r ytermux-v2 && cd
 ```
