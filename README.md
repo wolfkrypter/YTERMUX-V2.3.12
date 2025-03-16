@@ -75,7 +75,7 @@ Digite el nombre de usuario o username o usuario e oprima en el caso de haber in
 
 
 
-<h2>DESINSTALACIÓN DE YTDLP-TERMUX-V2</h2>
+<a href="https://freeimage.host/i/3nCUzzP"><img src="https://iili.io/3nCUzzP.md.jpg" alt="3nCUzzP.md.jpg" border="0"></a>
 
 ```bash
 cd $PATH && rm -r ytermux-v2 && cd
