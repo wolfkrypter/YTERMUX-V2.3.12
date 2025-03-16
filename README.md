@@ -12,7 +12,7 @@ Este sub-software de código abierto cifrado en base64 ejecuta de forma legible 
 <p><strong>Edición:</strong> 12/03/2025/03:35:05</p>
 <p><strong>Tamaño:</strong> 1 GB</p>
 <br/>
-<a href="https://freeimage.host/i/3nnxAOu"><img src="https://iili.io/3nnxAOu.md.jpg" alt="3nnxAOu.md.jpg" border="0"/>
+<a href="https://freeimage.host/i/3nnxAOu"><img src="https://iili.io/3nnxAOu.md.jpg" alt="3nnxAOu.md.jpg" border="0"></a>
 <br/>
 <br/>
 <strong>Video tutorial:</strong>
