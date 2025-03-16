@@ -103,7 +103,7 @@ cd $PATH && rm -r ytermux-v2 && cd
 yes | rm -r YTDLP-TERMUX-V2
 ```
 
-<h1>DESINSTALACIÓN DE DEPENDENCIAS DE YTDLP-TERMUX-V2</h1>
+
 
 ```bash
 yes | pkg uninstall ffmpeg
