@@ -79,7 +79,9 @@ Digite el nombre de usuario o username o usuario e oprima en el caso de haber in
 <br/>
 <br/>
 
-<a href="https://freeimage.host/i/3nCUzzP"><img src="https://iili.io/3nCUzzP.md.jpg" alt="3nCUzzP.md.jpg" border="0"></a>
+
+<a href="https://freeimage.host/i/3nnIUoG"><img src="https://iili.io/3nnIUoG.md.jpg" alt="3nnIUoG.md.jpg" border="0"></a>
+
 <br/>
 <br/>
 ```bash
