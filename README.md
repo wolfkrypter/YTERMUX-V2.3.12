@@ -72,7 +72,7 @@ Digite el nombre de usuario o username o usuario e oprima en el caso de haber in
 
 <p>para proseguir el proceso de descarga e extracodificación e extracción con cuenta streaming.</p>
 <a href="https://freeimage.host/i/3fVtk8X"><img src="https://iili.io/3fVtk8X.md.png" alt="3fVtk8X.md.png" border="0"></a>
-
+<br />
 
 
 <a href="https://freeimage.host/i/3nCUzzP"><img src="https://iili.io/3nCUzzP.md.jpg" alt="3nCUzzP.md.jpg" border="0"></a>
