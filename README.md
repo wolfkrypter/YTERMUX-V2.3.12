@@ -1,6 +1,6 @@
 
 # YTERMUX-V2.3.12
-Ejecuta de forma legible YT-DLP en Termux en una versión comprensible e ejecutable de forma versátil.</p>
+Este sub-software ejecuta de forma legible YT-DLP en Termux en una versión comprensible e ejecutable de forma versátil.</p>
 
 
 <br/>
