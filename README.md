@@ -10,7 +10,9 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 <p><strong>Status:</strong> Activo | Disponible</p>
 <p><strong>Edición:</strong> 12/03/2025/03:35:05</p>
 <p><strong>Tamaño:</strong> 1 GB</p>
-
+<br/>
+<br/>
+<br/>
 <a href="https://freeimage.host/i/3nCgdpp"><img src="https://iili.io/3nCgdpp.md.jpg" alt="3nCgdpp.md.jpg" border="0"></a>
 
 <strong>Video tutorial:</strong>
@@ -74,7 +76,7 @@ Digite el nombre de usuario o username o usuario e oprima en el caso de haber in
 <a href="https://freeimage.host/i/3fVtk8X"><img src="https://iili.io/3fVtk8X.md.png" alt="3fVtk8X.md.png" border="0"></a>
 
 
-
+<br/>
 <br/>
 <br/>
 
