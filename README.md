@@ -10,7 +10,7 @@ Ejecuta de forma legible YT-DLP en Termux.</p>
 
 <br/>
 <a href="https://freeimage.host/i/3nz3bZQ"><img src="https://iili.io/3nz3bZQ.md.jpg" alt="3nz3bZQ.md.jpg" border="0"></a>
-
+<br/>
 <br/>
 <p><strong>Status:</strong> Activo | Disponible</p>
 <p><strong>Edición:</strong> 12/03/2025/03:35:05</p>
