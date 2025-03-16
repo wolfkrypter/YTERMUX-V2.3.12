@@ -1,7 +1,7 @@
 <a href="https://freeimage.host/i/3naCeBS"><img src="https://iili.io/3naCeBS.md.jpg" alt="YTERMUX-V2.3.12" border="0" align="center"></a>
 <br/>
 
-Este sub-software de código abierto codificado en base64 y bashcript ejecuta de forma legible YT-DLP en Termux en una versión codificada en un formato comprensible generacional.</p>
+Este sub-software de código abierto codificado en Base64 y Bashcript ejecuta de forma legible YT-DLP en Termux en una versión codificada en un formato comprensible generacional.</p>
 
 
 <br/>
