@@ -17,8 +17,6 @@ Este sub-software de código abierto cifrado en base64 ejecuta de forma legible 
 <br/>
 
 [![Video tutorial YTERMUX-V2.3.12](https://img.youtube.com/vi/0c-UVrny8pI/0.jpg)](https://www.youtube.com/watch?v=0c-UVrny8pI)
-
-<br />
 <br/>
 
 
