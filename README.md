@@ -1,11 +1,11 @@
-<a href="https://freeimage.host/i/3naCeBS"><img src="https://iili.io/3naCeBS.md.jpg" alt="YTERMUX-V2.3.12" border="0"></a>
+<a href="https://freeimage.host/i/3naCeBS"><img src="https://iili.io/3naCeBS.md.jpg" alt="YTERMUX-V2.3.12" border="0" align="center"></a>
 <br/>
 
 Este sub-software de código abierto cifrado en base64 ejecuta de forma legible YT-DLP en Termux en una versión comprensible e ejecutable de forma versátil.</p>
 
 
 <br/>
-<a href="https://freeimage.host/i/3nz3bZQ"><img src="https://iili.io/3nz3bZQ.md.jpg" alt="Estado" border="0"></a>
+<a href="https://freeimage.host/i/3nz3bZQ"><img src="https://iili.io/3nz3bZQ.md.jpg" alt="Estado" border="0" align="center"></a>
 <br/>
 <br/>
 <p><strong>Status:</strong> Activo | Disponible</p>
