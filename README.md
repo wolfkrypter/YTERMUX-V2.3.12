@@ -21,7 +21,7 @@ Este sub-software de código abierto cifrado en base64 ejecuta de forma legible 
 
 
 
-<a href="https://freeimage.host/i/3n0jrap"><img src="https://iili.io/3n0jrap.md.jpg" alt="3n0jrap.md.jpg" border="-1"></a>
+<a href="https://freeimage.host/i/3n0jrap"><img src="https://iili.io/3n0jrap.md.jpg" alt="3n0jrap.md.jpg" border="-3"></a>
 
 
 ~ $ ``` yes | termux-setup-storage ```
