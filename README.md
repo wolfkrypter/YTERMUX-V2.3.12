@@ -1,4 +1,3 @@
-
 # YTERMUX-V2.3.12
 Este sub-software de código abierto cifrado en base64 ejecuta de forma legible YT-DLP en Termux en una versión comprensible e ejecutable de forma versátil.</p>
 
