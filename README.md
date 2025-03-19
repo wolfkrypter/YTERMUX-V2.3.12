@@ -12,10 +12,9 @@ Este es un sub-software de código abierto codificado en Base64 y Bashscript eje
 
 <br/>
 <br/>
-<a href="https://freeimage.host/i/3xXEPLB"><img src="https://iili.io/3xXEPLB.md.jpg" alt="3xXEPLB.md.jpg" border="0"></a>
+<a href="https://freeimage.host/i/3xXEPLB"><img src="https://iili.io/3xXEPLB.md.jpg" alt="EDICIÓN" border="0"></a>
 <br/>
 <br/>
-<p align="center">FMOD-12.03.2025.03:35:05</p>
 
 
 <br/>
