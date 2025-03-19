@@ -34,6 +34,8 @@ Este es un sub-software de código abierto codificado en Base64 y Bashscript eje
 <p align="center">1 GB Aproximadamente</p>
 <br/>
 <br/>
+<br/>
+
 <a href="https://freeimage.host/i/3nnxAOu"><img src="https://iili.io/3nnxAOu.md.jpg" alt="Instalación" border="0"></a>
 <br/>
 <br/>
