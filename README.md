@@ -9,6 +9,7 @@ Este es un sub-software de código abierto codificado en Base64 y Bashscript eje
 <br/>
 <br/>
 <br/>
+<br/>
 <a href="https://freeimage.host/i/3xX7YFf"><img src="https://iili.io/3xX7YFf.md.jpg" alt="STATUS" border="0"></a>
 <br/>
 <br/>
