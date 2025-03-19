@@ -8,10 +8,7 @@ Este es un sub-software de código abierto codificado en Base64 y Bashscript eje
 <a href="https://freeimage.host/i/3nz3bZQ"><img src="https://iili.io/3nz3bZQ.md.jpg" alt="ESTADO" border="0" align="center"></a>
 <br/>
 <br/>
-
-<br/>
 <a href="https://freeimage.host/i/3xX7YFf"><img src="https://iili.io/3xX7YFf.md.jpg" alt="STATUS" border="0"></a>
-<br/>
 <br/>
 <p>Activo | Disponible</p>
 
@@ -22,7 +19,15 @@ Este es un sub-software de código abierto codificado en Base64 y Bashscript eje
 <a href="https://freeimage.host/i/3xXEPLB"><img src="https://iili.io/3xXEPLB.md.jpg" alt="3xXEPLB.md.jpg" border="0"></a>
 <br/>
 <p>12/03/2025/03:35:05</p>
+
+
+<br/>
+<br/>
+
+
+
 <p><strong>Tamaño:</strong> 1 GB</p>
+<br/>
 <br/>
 <a href="https://freeimage.host/i/3nnxAOu"><img src="https://iili.io/3nnxAOu.md.jpg" alt="Instalación" border="0"></a>
 <br/>
