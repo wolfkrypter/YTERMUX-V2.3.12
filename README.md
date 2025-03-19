@@ -7,8 +7,7 @@ Este es un sub-software de código abierto codificado en Base64 y Bashscript eje
 <a href="https://freeimage.host/i/3xX7YFf"><img src="https://iili.io/3xX7YFf.md.jpg" alt="STATUS" border="0"></a>
 <br/>
 <br/>
-<p align="center">Repositorio Activo o Disponible</p>
-
+<a href="https://freeimage.host/i/3xhm5b9"><img src="https://iili.io/3xhm5b9.md.jpg" alt="3xhm5b9.md.jpg" border="0"></a>
 
 
 <br/>
