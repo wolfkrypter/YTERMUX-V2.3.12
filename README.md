@@ -5,12 +5,12 @@ Este es un sub-software de código abierto codificado en Base64 y Bashscript eje
 
 
 <br/>
-<a href="https://freeimage.host/i/3nz3bZQ"><img src="https://iili.io/3nz3bZQ.md.jpg" alt="Estado" border="34" align="center"></a>
+<a href="https://freeimage.host/i/3nz3bZQ"><img src="https://iili.io/3nz3bZQ.md.jpg" alt="Estado" border="0" align="center"></a>
 <br/>
 <br/>
 
 
-<a href="https://freeimage.host/i/3xX7YFf"><img src="https://iili.io/3xX7YFf.md.jpg" alt="3xX7YFf.md.jpg" width="120" height="129" align="left"></a>
+<a href="https://freeimage.host/i/3xX7YFf"><img src="https://iili.io/3xX7YFf.md.jpg" alt="3xX7YFf.md.jpg" width="120" height="78" align="left"></a>
 
 <p>Activo | Disponible</p>
 <p><strong>Edición:</strong> 12/03/2025/03:35:05</p>
