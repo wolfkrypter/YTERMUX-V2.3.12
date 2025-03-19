@@ -14,7 +14,14 @@ Este es un sub-software de código abierto codificado en Base64 y Bashscript eje
 <br/>
 <br/>
 <p>Activo | Disponible</p>
-<p><strong>Edición:</strong> 12/03/2025/03:35:05</p>
+
+
+
+<br/>
+<br/>
+<a href="https://freeimage.host/i/3xXEPLB"><img src="https://iili.io/3xXEPLB.md.jpg" alt="3xXEPLB.md.jpg" border="0"></a>
+<br/>
+<p>12/03/2025/03:35:05</p>
 <p><strong>Tamaño:</strong> 1 GB</p>
 <br/>
 <a href="https://freeimage.host/i/3nnxAOu"><img src="https://iili.io/3nnxAOu.md.jpg" alt="Instalación" border="0"></a>
