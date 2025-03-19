@@ -123,7 +123,11 @@ yes | pkg uninstall python
 echo -e "\n\n\033[0;666;32m[INF]\033[0;666;32m Desinstalación de YTERMUX-V2.3.12 completada.\n\n"
 ```
 
-<img src="https://iili.io/3xEH4ov.th.jpg" alt="3xEH4ov.th.jpg" align="left" width="36" height="20"></img><p>El siguiente comando desinstala la dependencia y el paquete de git el cual es indispensable para clonar repositorios e útil para el servicio de instalación de software de código abierto publicados en git,etcétera.</p>
+
+
+
+
+<img src="https://iili.io/3xEH4ov.th.jpg" alt="3xEH4ov.th.jpg" align="left" width="36" height="20"/><p>El siguiente comando desinstala la dependencia y el paquete de git el cual es indispensable para clonar repositorios e útil para el servicio de instalación de software de código abierto publicados en git,etcétera.</p>
 
 ```bash
 yes | pkg uninstall git
