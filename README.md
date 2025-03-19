@@ -23,7 +23,7 @@ Este es un sub-software de código abierto codificado en Base64 y Bashscript eje
 <br/>
 <a href="https://freeimage.host/i/3xXSSYx"><img src="https://iili.io/3xXSSYx.md.jpg" alt="3xXSSYx.md.jpg" border="0"></a>
 <br/>
-
+<br/>
 <a href="https://freeimage.host/i/3xwms1a"><img src="https://iili.io/3xwms1a.md.jpg" alt="3xwms1a.md.jpg" border="0"></a>
 
 
