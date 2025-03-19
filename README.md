@@ -146,6 +146,7 @@ echo -e "\n\n\033[0;666;32m[INF]\033[0;666;32m Desinstalación de YTERMUX-V2.3.1
 <br/>
 <a href="https://freeimage.host/i/3xhNn6v"><img src="https://iili.io/3xhNn6v.md.jpg" alt="3xhNn6v.md.jpg" border="0"></a>
 <br/>
+<br/>
 <p>El siguiente comando desinstala la dependencia y el paquete de git el cual es indispensable para clonar repositorios e útil para el servicio de instalación de software de código abierto publicados en git,etcétera.</p>
 
 ```bash
