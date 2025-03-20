@@ -76,7 +76,7 @@ Este es un sub-software de código abierto codificado en Base64 y Bashscript que
 <br />
 
 
-~/YTDLP-TERMUX-V2 $ ``` bash ytermux-v2 ```
+~/YTDLP-TERMUX-V2 $ ``` ytermux-v2 ```
 <br/>
 or
 <br/>
