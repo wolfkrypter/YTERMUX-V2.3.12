@@ -84,8 +84,7 @@ or
 <br/>
 
 
-<a href="https://freeimage.host/i/3xkbntV"><img src="https://iili.io/3xkbntV.md.png" alt="3xkbntV.md.png" border="0"></a>
-
+<a href="https://freeimage.host/i/3T9YIxR"><img src="https://iili.io/3T9YIxR.md.png" alt="EJECUCIÓN YTERMUX-V2.3.12" border="0"></a>
 
 
 
