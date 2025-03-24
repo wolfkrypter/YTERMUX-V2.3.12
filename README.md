@@ -88,8 +88,6 @@ or
 
 
 
-<a href="https://freeimage.host/i/3xvEJXn"><img src="https://iili.io/3xvEJXn.md.png" alt="3xvEJXn.md.png" border="0"></a>
-
 
 
 <a href="https://freeimage.host/i/3KiBPbS"><img src="https://iili.io/3KiBPbS.md.png" alt="" border="0"></a>
