@@ -1,7 +1,7 @@
 <a href="https://freeimage.host/i/3naCeBS"><img src="https://iili.io/3naCeBS.md.jpg" alt="YTERMUX-V2.3.12" border="0" align="center"></a>
 <br/>
 <br/>
-Este es un sub-software de código abierto codificado en Base64 y Bashscript que ejecuta de forma legible YT-DLP en Termux en una versión codificada en un formato comprensible generacional.</p>
+Este es un sub-software de código abierto codificado en Base64 y Bashscript que ejecuta de forma legible YT-DLP en Termux en una versión codificada en un formato comprensible generacional para versatilizar el proceso de descarga de música e audio, y contenido audiovisual o de video, e utilizar internamente para conocer de una forma experimental o através de el procesamiento de este Bashscript secuencias de comandos y consecución de procesos multimedia que ofrece beneficiariamente YT-DLP.</p>
 <br/>
 <br/>
 <a href="https://freeimage.host/i/3xX7YFf"><img src="https://iili.io/3xX7YFf.md.jpg" alt="STATUS" border="0"></a>
