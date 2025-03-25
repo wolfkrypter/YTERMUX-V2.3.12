@@ -53,15 +53,15 @@ Este es un sub-software de código abierto codificado en Base64 y Bashscript que
 <br />
 ~ $ ``` yes | pkg install git ```
 <br />
-~ $ ``` git clone https://github.com/wolfkrypter/YTDLP-TERMUX-V2.git ```
+~ $ ``` git clone https://github.com/wolfkrypter/YTERMUX-V2.3.12.git ```
 <br />
 
-~ $ ``` cd YTDLP-TERMUX-V2 ```
+~ $ ``` cd YTERMUX-V2.3.12 ```
 <br />
-~/YTDLP-TERMUX-V2 $ ``` chmod +x ytermux-v2 ```
+~/YTERMUX-V2.3.12 $ ``` chmod +x ytermux-v2 ```
 <br />
 
-~/YTDLP-TERMUX-V2 $ ``` mv ytermux-v2 $PATH ```
+~/YTERMUX-V2.3.12 $ ``` mv ytermux-v2 $PATH ```
 
 <br />
 
@@ -76,7 +76,7 @@ Este es un sub-software de código abierto codificado en Base64 y Bashscript que
 <br />
 
 
-~/YTDLP-TERMUX-V2 $ ``` ytermux-v2 ```
+~/YTERMUX-V2.3.12 $ ``` ytermux-v2 ```
 <br/>
 or
 <br/>
@@ -120,7 +120,7 @@ cd $PATH && rm -r ytermux-v2 && cd
 ```
 
 ```bash
-yes | rm -r YTDLP-TERMUX-V2
+yes | rm -r YTERMUX-V2.3.12
 ```
 
 
