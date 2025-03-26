@@ -86,7 +86,9 @@ yes | termux-setup-storage && yes | pkg update && yes | pkg upgrade && yes | pkg
 <br/>
 or
 <br/>
-~ $ ``` ytermux-v2 ```
+```bash
+ytermux-v2
+```
 <br/>
 
 
