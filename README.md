@@ -45,9 +45,9 @@ Es un <a href="https://es.wikipedia.org/wiki/Script_de_shell">Shell Script</a> c
 <br />
 ~ $ ``` yes | pkg upgrade && yes | pkg update ```
 <br />
-~ $ ``` yes | pkg install ffmpeg ```
-<br />
 ~ $ ``` yes | pkg install python ```
+<br />
+~ $ ``` yes | pkg install ffmpeg ```
 <br />
 ~ $ ``` pip install yt-dlp ```
 <br />
