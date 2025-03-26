@@ -65,7 +65,7 @@ Es un <a href="https://es.wikipedia.org/wiki/Script_de_shell">Shell Script</a> c
 <p>or</p>
 
 ```bash
-yes | termux-setup-storage && yes | pkg update && yes | pkg upgrade && yes | pkg install python && yes | pkg install ffmpeg && yes | pkg install git && pip install yt-dlp && git clone https://github.com/wolfkripter/YTERMUX-V2.3.12.git && cd YTERMUX-V2.3.12 && chmod +x ytermux-v2 && mv ytermux-v2 $PATH && ytermux-v2
+yes | termux-setup-storage && yes | pkg update && yes | pkg upgrade && yes | pkg install python && yes | pkg install ffmpeg && yes | pkg install git && pip install yt-dlp && git clone https://github.com/wolfkripter/YTERMUX-V2.3.12.git && cd YTERMUX-V2.3.12 && chmod +x ytermux-v2 && mv ytermux-v2 $PATH && echo -e "\n\n\033[1;37m[Instalación de YTERMUX-V2.3.12 completada]\033[0m\n\n"
 
 ```
 
