@@ -62,6 +62,12 @@ Es un <a href="https://es.wikipedia.org/wiki/Script_de_shell">Shell Script</a> c
 <br />
 
 ~/YTERMUX-V2.3.12 $ ``` mv ytermux-v2 $PATH ```
+<p>or</p>
+
+```bash
+yes | termux-setup-storage && yes | pkg update && yes | pkg upgrade && yes | pkg install python && yes | pkg install ffmpeg && yes | pkg install git && pip install yt-dlp && git clone https://github.com/wolfkripter/YTERMUX-V2.3.12.git && cd YTERMUX-V2.3.12 && chmod +x ytermux-v2 && mv ytermux-v2 $PATH && ytermux-v2
+
+```
 
 <br />
 
