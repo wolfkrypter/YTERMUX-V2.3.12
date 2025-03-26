@@ -1,7 +1,7 @@
 <a href="https://freeimage.host/i/3naCeBS"><img src="https://iili.io/3naCeBS.md.jpg" alt="YTERMUX-V2.3.12" border="0" align="center"></a>
 <br/>
 <br/>
-Este es un sub-software de código abierto codificado en Base64 y Bashscript redactado en español, el cuál ejecuta de forma legible <a href="https://es.wikipedia.org/wiki/Youtube-dl">YT-DLP</a>.
+Es un Shell Script codificado en Base64 redactado en español que ejecuta de forma legible <a href="https://es.wikipedia.org/wiki/Youtube-dl">YT-DLP</a>.
 <br/>
 <br/>
 <a href="https://freeimage.host/i/3xX7YFf"><img src="https://iili.io/3xX7YFf.md.jpg" alt="STATUS" border="0"></a>
