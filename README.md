@@ -183,7 +183,7 @@ yes | pkg uninstall git
 
 
 
-<a href="https://freeimage.host/i/3V97qb4"><img src="https://iili.io/3V97qb4.md.jpg" alt="3V97qb4.md.jpg" border="0"></a>
+<a href="https://freeimage.host/i/3V9gF2t"><img src="https://iili.io/3V9gF2t.md.jpg" alt="3V9gF2t.md.jpg" border="0"></a>
 
 ```bash
 yt-dlp -U
