@@ -113,7 +113,34 @@ Digite el nombre de usuario o username o usuario e oprima en el caso de haber in
 
 
 <br/>
+
 <br/>
+
+<a href="https://freeimage.host/i/3V9xg6J"><img src="https://iili.io/3V9xg6J.md.jpg" alt="3V9xg6J.md.jpg" border="0"></a>
+
+
+
+
+
+<a href="https://freeimage.host/i/3V9nuwX"><img src="https://iili.io/3V9nuwX.md.jpg" alt="3V9nuwX.md.jpg" border="0"></a>
+
+
+
+
+
+<a href="https://freeimage.host/i/3V9gF2t"><img src="https://iili.io/3V9gF2t.md.jpg" alt="3V9gF2t.md.jpg" border="0"></a>
+
+```bash
+yt-dlp -U
+```
+
+<a href="https://freeimage.host/i/3V9TIQ1"><img src="https://iili.io/3V9TIQ1.md.jpg" alt="3V9TIQ1.md.jpg" border="0"></a>
+```bash
+yt-dlp -V
+```
+
+
+
 
 <br/>
 <a href="https://freeimage.host/i/3nnIUoG"><img src="https://iili.io/3nnIUoG.md.jpg" alt="Desinstalación" border="0"></a>
@@ -168,29 +195,4 @@ yes | pkg uninstall git
 
 
 
-
-<br/>
-
-<a href="https://freeimage.host/i/3V9xg6J"><img src="https://iili.io/3V9xg6J.md.jpg" alt="3V9xg6J.md.jpg" border="0"></a>
-
-
-
-
-
-<a href="https://freeimage.host/i/3V9nuwX"><img src="https://iili.io/3V9nuwX.md.jpg" alt="3V9nuwX.md.jpg" border="0"></a>
-
-
-
-
-
-<a href="https://freeimage.host/i/3V9gF2t"><img src="https://iili.io/3V9gF2t.md.jpg" alt="3V9gF2t.md.jpg" border="0"></a>
-
-```bash
-yt-dlp -U
-```
-
-<a href="https://freeimage.host/i/3V9TIQ1"><img src="https://iili.io/3V9TIQ1.md.jpg" alt="3V9TIQ1.md.jpg" border="0"></a>
-```bash
-yt-dlp -V
-```
 
