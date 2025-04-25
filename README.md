@@ -133,10 +133,15 @@ Digite el nombre de usuario o username o usuario e oprima en el caso de haber in
 ```bash
 yt-dlp -U
 ```
+<p>OR</p>
+
+```bash
+pip install yt-dlp
+```
 
 <a href="https://freeimage.host/i/3V9TIQ1"><img src="https://iili.io/3V9TIQ1.md.jpg" alt="3V9TIQ1.md.jpg" border="0"></a>
 ```bash
-yt-dlp -V
+yt-dlp --version
 ```
 
 
