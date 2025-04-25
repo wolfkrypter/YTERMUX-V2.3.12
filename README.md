@@ -133,7 +133,7 @@ Digite el nombre de usuario o username o usuario e oprima en el caso de haber in
 ```bash
 yt-dlp -U
 ```
-<p>OR</p>
+<p>or</p>
 
 ```bash
 pip install yt-dlp
