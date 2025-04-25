@@ -159,3 +159,38 @@ echo -e "\n\n\033[0;666;32m[INF]\033[0;666;32m Desinstalación de YTERMUX-V2.3.1
 ```bash
 yes | pkg uninstall git
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://freeimage.host/i/3V9xg6J"><img src="https://iili.io/3V9xg6J.md.jpg" alt="3V9xg6J.md.jpg" border="0"></a>
+
+
+
+
+
+<a href="https://freeimage.host/i/3V9nuwX"><img src="https://iili.io/3V9nuwX.md.jpg" alt="3V9nuwX.md.jpg" border="0"></a>
+
+
+
+
+
+<a href="https://freeimage.host/i/3V97qb4"><img src="https://iili.io/3V97qb4.md.jpg" alt="3V97qb4.md.jpg" border="0"></a>
+
+```bash
+yt-dlp -U
+```
+
+<a href="https://freeimage.host/i/3V9TIQ1"><img src="https://iili.io/3V9TIQ1.md.jpg" alt="3V9TIQ1.md.jpg" border="0"></a>
+```bash
+yt-dlp -V
+```
+
