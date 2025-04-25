@@ -140,6 +140,7 @@ pip install yt-dlp
 ```
 
 <a href="https://freeimage.host/i/3V9TIQ1"><img src="https://iili.io/3V9TIQ1.md.jpg" alt="3V9TIQ1.md.jpg" border="0"></a>
+
 ```bash
 yt-dlp --version
 ```
@@ -153,6 +154,7 @@ yt-dlp --version
 <br/>
 <br/>
 <br/>
+
 ```bash
 cd $PATH && rm -r ytermux-v2 && cd
 ```
