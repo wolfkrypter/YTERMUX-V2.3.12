@@ -89,6 +89,10 @@ or
 ~ $ ``` ytermux-v2 ```
 <br/>
 
+<a href="https://freeimage.host/i/3h1YBqB"><img src="https://iili.io/3h1YBqB.md.png" alt="3h1YBqB.md.png" border="0"></a>
+
+
+
 
 <a href="https://freeimage.host/i/3h1HXae"><img src="https://iili.io/3h1HXae.md.png" alt="Ejecución ytsearch" border="0"></a>
 
