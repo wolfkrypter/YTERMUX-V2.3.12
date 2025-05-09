@@ -135,13 +135,9 @@ Digite el nombre de usuario o username o usuario e oprima en el caso de haber in
 
 <a href="https://freeimage.host/i/3V9gF2t"><img src="https://iili.io/3V9gF2t.md.jpg" alt="3V9gF2t.md.jpg" border="0"></a>
 
-```bash
-yt-dlp -U
-```
-<p>or</p>
 
 ```bash
-pip install yt-dlp
+pip uninstall yt-dlp && pip install yt-dlp
 ```
 
 <a href="https://freeimage.host/i/3V9TIQ1"><img src="https://iili.io/3V9TIQ1.md.jpg" alt="3V9TIQ1.md.jpg" border="0"></a>
