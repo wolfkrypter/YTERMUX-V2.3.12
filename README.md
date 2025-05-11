@@ -192,7 +192,7 @@ echo -e "\n\n\033[0;666;32m[INF]\033[0;666;32m Desinstalación de YTERMUX-V2.3.1
 yes | pkg uninstall git
 ```
 
-
+<br/>
 
 <a href="https://freeimage.host/i/3vlNH6Q"><img src="https://iili.io/3vlNH6Q.md.jpg" alt="YT-Desencriptación" border="0"></a>
 
