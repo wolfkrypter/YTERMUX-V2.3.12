@@ -194,6 +194,19 @@ yes | pkg uninstall git
 
 
 
+<a href="https://freeimage.host/i/3vlNH6Q"><img src="https://iili.io/3vlNH6Q.md.jpg" alt="YT-Desencriptación" border="0"></a>
+
+```bash
+cd YTERMUX-V2.3.12
+```
+
+```bash
+base64 -d code_cf64-YT-V2 > code_df-YT-V2
+```
+```bash
+ls
+```
+
 
 
 
