@@ -6,7 +6,7 @@
 #  S-ware: YTERMUX-V2  #
 #  TPL:    Bash$cript  #
 #  Date:   18/05/2025  #
-#  Hour:   10:48       #
+#  Hour:   11:03       #
 ########################
 
 ytermux=$(mktemp)
