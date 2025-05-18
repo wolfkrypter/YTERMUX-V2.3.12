@@ -201,7 +201,7 @@ cd YTERMUX-V2.3.12
 ```
 
 ```bash
-base64 -d code_cif64-YT-V2 > code_df-YT-V2
+base64 -d code_cif64-YT2 > code_df-YT2
 ```
 
 
