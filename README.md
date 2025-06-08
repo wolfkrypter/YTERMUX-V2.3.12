@@ -89,8 +89,8 @@ or
 ~ $ ``` ytermux-v2 ```
 <br/>
 
-<a href="https://freeimage.host/i/3h1YBqB"><img src="https://iili.io/3h1YBqB.md.png" alt="3h1YBqB.md.png" border="0"></a>
 
+<a href="https://freeimage.host/i/F3eKYhu"><img src="https://iili.io/F3eKYhu.md.png" alt="YTERMUX-V2.3.12" border="0"></a>
 
 
 
