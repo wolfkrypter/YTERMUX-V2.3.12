@@ -90,11 +90,11 @@ or
 <br/>
 
 
-<a href="https://freeimage.host/i/F3eKYhu"><img src="https://iili.io/F3eKYhu.md.png" alt="YTERMUX-V2.3.12" border="0"></a>
+<a href="https://freeimage.host/i/F3eKYhu"><img src="https://iili.io/F3eKYhu.md.png" alt="YTERMUX-V2.3.12-1" border="0"></a>
 
 
 
-<a href="https://freeimage.host/i/F3eB14f"><img src="https://iili.io/F3eB14f.md.png" alt="YTERMUX-V2.3.12" border="0"></a>
+<a href="https://freeimage.host/i/F3eB14f"><img src="https://iili.io/F3eB14f.md.png" alt="YTERMUX-V2.3.12-2" border="0"></a>
 
 
 
