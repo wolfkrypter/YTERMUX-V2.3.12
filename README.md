@@ -90,29 +90,11 @@ or
 <br/>
 
 
-<a href="https://freeimage.host/i/F3eKYhu"><img src="https://iili.io/F3eKYhu.md.png" alt="YTERMUX-V2.3.12-1" border="0"></a>
-
-
-
-<a href="https://freeimage.host/i/F3eB14f"><img src="https://iili.io/F3eB14f.md.png" alt="YTERMUX-V2.3.12-2" border="0"></a>
 
 
 
 
 
-
-<br/>
-<a href="https://freeimage.host/i/3nxWh91"><img src="https://iili.io/3nxWh91.md.jpg" alt="" border="0"></a>
-<br/>
-<br/>
-
-Digite el nombre de usuario o username o usuario e oprima en el caso de haber ingresado con el email o correo electrónico, y si ingreso con el nombre de usuario o username o usuario digite el email o correo electrónico e oprima 'Enter'
-<br/>
-<br/>
-<a href="https://freeimage.host/i/3fAsu1t"><img src="https://iili.io/3fAsu1t.md.png" alt="3fAsu1t.md.png" border="0"></a>
-
-<p>para proseguir el proceso de descarga e extracodificación e extracción con cuenta streaming.</p>
-<a href="https://freeimage.host/i/3fVtk8X"><img src="https://iili.io/3fVtk8X.md.png" alt="3fVtk8X.md.png" border="0"></a>
 
 
 <br/>
