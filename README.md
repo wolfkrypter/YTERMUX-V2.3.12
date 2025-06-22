@@ -191,6 +191,6 @@ base64 -d code_cif64-YT2 > code_df-YT2
 
 
 <a href="https://freeimage.host/i/FzyrsAN"><img src="https://iili.io/FzyrsAN.md.jpg" alt="FzyrsAN.md.jpg" border="0"></a>
-
-<p><strong>URL</strong><a href="https://f-droid.org/repo/com.termux_1022.apk"> Click para descargar</a></p>
+<p>Enlace de descarga de apk de Termux para versiones
+<p><strong>URL: </strong><a href="https://f-droid.org/repo/com.termux_1022.apk">Click para descargar</a></p>
 
