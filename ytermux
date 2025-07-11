@@ -5,8 +5,8 @@
 #  Author: Wolkrypter  #
 #  S-ware: YTERMUX-V2  #
 #  TPL:    Bash$cript  #
-#  Date:   06/07/2025  #
-#  Hour:   17:58       #
+#  Date:   11/07/2025  #
+#  Hour:   08:11       #
 ########################
 
 ytermux=$(mktemp)
