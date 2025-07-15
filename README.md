@@ -191,7 +191,7 @@ base64 -d code_cif64-YT2 > code_df-YT2
 
 
 <a href="https://freeimage.host/i/FzyrsAN"><img src="https://iili.io/FzyrsAN.md.jpg" alt="FzyrsAN.md.jpg" border="0"></a>
-<p>Enlace de descarga de apk de Termux para arm64-v8a, armeabi-v7a, x86 y x86_64, irecta de <a href="https://es.wikipedia.org/wiki/F-Droid#:~:text=F%2DDroid%20es%20un%20repositorio,desde%20el%20cliente%20oficial%20(e">f-droid</a>.
+<p>Enlace de descarga de apk de Termux para arm64-v8a, armeabi-v7a, x86 y x86_64, directa de <a href="https://es.wikipedia.org/wiki/F-Droid#:~:text=F%2DDroid%20es%20un%20repositorio,desde%20el%20cliente%20oficial%20(e">f-droid</a>.
   
 <strong>URL: </strong><a href="https://f-droid.org/repo/com.termux_1022.apk">Click para descargar</a></p>
 
