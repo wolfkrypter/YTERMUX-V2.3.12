@@ -1,7 +1,7 @@
 <a href="https://freeimage.host/i/3naCeBS"><img src="https://iili.io/3naCeBS.md.jpg" alt="YTERMUX-V2.3.12" border="0" align="center"></a>
 <br/>
 <br/>
-Es un <a href="https://es.wikipedia.org/wiki/Script_de_shell">Shell Script</a> codificado en <a href="https://es.wikipedia.org/wiki/Base64">Base64</a> que ejecuta de forma legible <a href="https://es.wikipedia.org/wiki/Youtube-dl">YT-DLP</a> o el software libre de código abierto escrito en Python <a href="https://pypi.org/project/yt-dlp">yt-dlp</a> en español.
+Es un <a href="https://es.wikipedia.org/wiki/Script_de_shell">Shell Script</a> codificado en <a href="https://es.wikipedia.org/wiki/Base64">Base64</a> que ejecuta de forma legible <a href="https://es.wikipedia.org/wiki/Youtube-dl">YT-DLP</a> o el software libre de código abierto escrito en Python <a href="https://pypi.org/project/yt-dlp">yt-dlp</a> en español en Termux y en android con arquitecturas predispuestas para termux.
 <br/>
 <br/>
 <a href="https://freeimage.host/i/3xX7YFf"><img src="https://iili.io/3xX7YFf.md.jpg" alt="STATUS" border="0"></a>
