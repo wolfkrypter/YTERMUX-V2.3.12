@@ -43,8 +43,6 @@ Es un <a href="https://es.wikipedia.org/wiki/Script_de_shell">Shell Script</a> c
 
 ~ $ ``` yes | termux-setup-storage ```
 <br />
-~ $ ``` yes | pkg update && yes | pkg upgrade ```
-<br />
 ~ $ ``` yes | pkg upgrade && yes | pkg update ```
 <br />
 ~ $ ``` yes | pkg install python ```
